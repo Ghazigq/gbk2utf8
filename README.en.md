@@ -1,7 +1,7 @@
 # gbk2utf8
 
 #### Description
-GBK及UTF8编码之间相互转换
+Conversion between GBK and UTF8
 
 #### Software Architecture
 Software architecture description
